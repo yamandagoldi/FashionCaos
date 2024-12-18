@@ -1,0 +1,51 @@
+html{background-image: url(img17a21/top3\ fundo.png);  
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h3{color: black; text-align: center; margin-top: 3.7%; 
+   margin-left:-0.1%;
+    
+}
+
+.primeirolugar{ margin-left:-3%;
+
+}
+
+.segundolugar{ margin-left: -57%; margin-top:-3.5%; 
+
+}
+
+.terceirolugar{   margin-left:48%; margin-top:-3.2%;
+
+}
+
+.jogadorcolocação{  margin-bottom: -80%;
+
+}
+
+.jogadorcolocação{ margin-top:47%; margin-bottom:-0.5%; 
+}
+
+.jogadorprimeiro{ margin-left: -3%; margin-top:-1%; margin-bottom:-7%;
+
+}
+
+.jogadorsegundo{  margin-left: -56%;   margin-bottom:-1.8%; margin-top:5%;
+
+}
+
+.jogadorterceiro{  margin-left:45%; margin-top:0.2%;  margin-bottom:-2%;
+
+}
+
+.Ranking{ color:black; background-color: aquamarine;
+    width: 14%; height:50px;  margin-left: 86%;  margin-top:-9% ; margin-bottom:2%;
+    border-width: 4px; border-color:white; font-size: large; font-family: 'Gill Sans MT';
+}
+  
+.Ranking:hover{background-color:rgb(255, 174, 215) ;     
+    color: black;     
+    border-color: black;   
+    transition: 0.5s;    
+    opacity: 1s;}  

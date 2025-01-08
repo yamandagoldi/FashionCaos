@@ -1,0 +1,104 @@
+html{background-image: url(https://i.pinimg.com/736x/46/62/cd/4662cd055a934a91c965d33ad93d80e9.jpg); 
+
+}
+
+
+#botãopronto{ background-color: deeppink; color: aliceblue; width:100px; height: 40px;
+    border-color: aliceblue; border-width:2px; font-family: 'Trebuchet MS'; font-style: bold; 
+    margin-left: 75%; }
+    
+    #botãopronto:hover{background-color:rgb(255, 174, 215) ;  
+        color: black;  
+        border-color: black;
+        transition: 0.5s; 
+        opacity: 1s;}
+    
+    
+    .broupas{background-color:aquamarine; font-family:'Gill Sans';margin-left:-20%;  
+     height: 35px; margin-top:2.6%; }
+    
+    .broupas:hover{background-color: deeppink;  
+        color: black;  
+        transition: 0.5s; 
+        opacity: 1s;}
+    
+    
+    #tabela{
+        width: 750px;
+        height: 500px;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: rgba(243, 243, 243, 0.306);
+        margin-top:-70%;
+    
+    }
+    
+    #organização{
+        margin-left:40%;
+        display: inline-block;
+    }
+    
+    #imgbase{ height: 100%; margin-left:-60%; margin-top:-16%;}
+    
+    #pele1{ width:140px; height: 290px; border-color: black; border-width:4px; border-style: double;
+        margin-left:9px; margin-top:9px; background-color: rgb(255, 174, 215); 
+        border-bottom:-100px; border-top:50px;
+        }
+    
+        #pele1:hover{ background-color: deeppink;  
+            border-color: white; 
+            transition: 0.5s; 
+            opacity: 1s;
+        }
+        
+        
+    #pele2{ width:140px; height: 290px; border-color: black; border-width:4px; border-style: double;
+        margin-left:9px; margin-top:9px; background-color: rgb(255, 174, 215); 
+        border-bottom:-100px; border-top:50px;
+    }
+    
+    #pele2:hover{ background-color: deeppink;  
+        border-color: white; 
+        transition: 0.5s; 
+        opacity: 1s;
+    }
+    
+    #pele3{ width:140px; height: 290px; border-color: black; border-width:4px; border-style: double;
+        margin-left:9px; margin-top:9px; background-color: rgb(255, 174, 215); 
+        border-bottom:-100px; border-top:50px;
+    }
+    
+    #pele3:hover{ background-color: deeppink;  
+        border-color: white; 
+        transition: 0.5s; 
+        opacity: 1s;
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    

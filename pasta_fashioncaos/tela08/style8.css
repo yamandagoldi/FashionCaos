@@ -1,0 +1,32 @@
+
+body {
+   
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+#tema {
+    margin-top: 100px;
+}
+
+h1 {
+    color: #000000; 
+    font-size: 40px;
+    margin-bottom: 40px;
+    background-color: rgba(148, 211, 199, 0.9);
+    padding: 10px 80px;
+    display: inline-block;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+#tema-livre p{
+    background: linear-gradient(to right,rgba(241, 166, 201, 0.895) , rgba(244, 103, 169, 0.895), rgba(241, 166, 201, 0.895));
+    color: black;
+    font-size: 35px;
+    padding: 20px 240px;
+    display: inline-block;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}

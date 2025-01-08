@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Criar Sala</title>
+    <link rel="stylesheet" href="style3.css">
+</head>
+<body background="img/glitterimagem.jpg">
+    <div id="formulario">
+        <h1>Criar a sala</h1>
+        <hr id="hr">
+        <form>
+            <br>
+            <label>Quantidade de jogadores:</label>
+            <div>
+                <input list="Quantidade" placeholder="Min:5; Max:10;" required name="Quantidade">
+                    <datalist id="Quantidade">
+                        <option value="5">
+                        <option value="6">
+                        <option value="7">
+                        <option value="8">
+                        <option value="9">
+                        <option value="10">
+
+                        </datalist>
+            </div>
+            <br>
+            <label>Tempo para criação:</label>
+            <div>
+                <input list="criação" placeholder="Min:3min; Max:10min;" required name="criação">
+                <datalist id="criação">
+                    <option value="3 min">
+                    <option value="5 min">
+                    <option value="7 min">
+                    <option value="10 min">
+                    </datalist>
+            </div>
+            <br>
+            <label>Tempo para votação:</label>
+            <div>   
+                <input list="votação" placeholder="Min:20sec; Max:1min;" required name="votação">
+                <datalist id="votação">
+                    <option value="20 segundos">
+                    <option value="30 segundos">
+                    <option value="60 segundos">
+                </datalist>
+            </div>
+            <br>
+            <button type="submit" id="botão">Confirmar</button>
+        </form>
+    </div>
+</body>
+<script src="script3.js" defer></script>
+
+</html>
